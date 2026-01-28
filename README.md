@@ -1,7 +1,24 @@
-# Tauri + Solid + Typescript
+# 🕰️ Apple Clock Clone
 
-This template should help get you started developing with Tauri, Solid and Typescript in Vite.
+A macOS Clock app clone, built with Tauri and SolidJS. This project focuses on high-performance timers, system-level notifications, and native macOS feel.
 
-## Recommended IDE Setup
+## ✨ Features
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+- **World Clock:** Monitor time zones with dynamic day/night UI transitions.
+- **Alarms:** System-level persistent alerts.
+- **Stopwatch:** High-precision (60fps) ticking with lap-timing functionality.
+- **Timer:** Multi-timer support with native macOS notification integration.
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- Rust
+- Node.js (LTS or later)
+- Tauri CLI
+
+### Installation
+
+1. Clone the repo
+2. Install dependencies: `npm install`
+3. Run in Development Mode: `npm run tauri dev` 
