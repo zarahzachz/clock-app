@@ -1,0 +1,9 @@
+.titleBar {
+  font-size: smaller;
+  height: 3rem;
+  display: flex;
+  place-content: center;
+  place-items: center;
+  -webkit-app-region: drag;
+  app-region: drag;
+}
