@@ -1,7 +1,7 @@
 [package]
 name = "clock-app"
 version = "0.1.0"
-description = "A Tauri App"
+description = "A recreation of the macOS Clock app, built with Tauri and SolidJS."
 authors = ["you"]
 edition = "2021"
 
